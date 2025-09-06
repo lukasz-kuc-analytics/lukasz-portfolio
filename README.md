@@ -24,15 +24,15 @@ This project demonstrates my ability to combine **technical (Python, BI tools)**
 
 ### Dataset
 Synthetic dataset generated for prototyping shipment exception scenarios.  
-![Dataset](images/Dataset.png)
+![Dataset](Dataset.png)
 
 ### Python Script
 Backend workflow automating shipment data processing and anomaly detection.  
-![Python Script](images/Python_script.png)
+![Python Script](Python script.png)
 
 ### Power BI Dashboard
 Interactive Power BI dashboard for logistics operations: KPIs on time and cost, Pareto chart, and exception categories.  
-![Power BI Dashboard](images/PowerBI_dashboard.png)
+![Power BI Dashboard](PowerBI dashboard.png)
 
 ---
 
