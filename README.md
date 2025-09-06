@@ -24,7 +24,7 @@ This project demonstrates my ability to combine **technical (Python, BI tools)**
 
 ### Dataset
 Synthetic dataset generated for prototyping shipment exception scenarios.  
-![Dataset](Dataset.png)
+![Dataset](Dataset.png) [Dataset](Shipments.png)
 
 ### Python Script
 Backend workflow automating shipment data processing and anomaly detection.  
