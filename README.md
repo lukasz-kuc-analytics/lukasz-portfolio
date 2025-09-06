@@ -2,11 +2,11 @@
 
  Master’s degree in Logistics |  Supply Chain & Data Analytics |  Lean Six Sigma  
 
-This repository collects my projects in supply chain analytics and data-driven process improvement.  
+This repository collects my projects in supply chain analytics and data-driven process improvement
 
 ##  Projects
 - [Operational Analytics Prototype (Python + Power BI)](./Operational-Analytics-Prototype)  
-  End-to-end prototype combining Python, Power BI, and Six Sigma for exception handling in logistics.  
+  End-to-end prototype combining Python, Power BI, and Six Sigma for exception handling in logistics
 
 *(More projects coming soon: Excel KPI Dashboards, SQL Analysis, Six Sigma Case Study)*  
 
