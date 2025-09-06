@@ -65,10 +65,10 @@ Interactive Power BI dashboard visualizes operational and cost KPIs:
 ---
 
 ##  Key Outcomes
-✅ Identified critical bottlenecks (weight conflict, unbound inventory),  
-✅ Quantified operational and financial impact (hours & €),  
-✅ Demonstrated how to focus improvement efforts using the Pareto principle,  
-✅ Created a scalable framework for exception handling in supply chains.  
+- Identified critical bottlenecks (weight conflict, unbound inventory),  
+- Quantified operational and financial impact (hours & €),  
+- Demonstrated how to focus improvement efforts using the Pareto principle,  
+- Created a scalable framework for exception handling in supply chains.  
 
 ---
 
