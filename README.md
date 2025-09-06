@@ -72,7 +72,7 @@ Interactive Power BI dashboard visualizes operational and cost KPIs:
 
 ---
 
-## 🛠 Skills Demonstrated
+##  Skills Demonstrated
 - **Supply Chain Analytics**  
 - **Lean Six Sigma** (DMAIC, Pareto, Waste reduction)  
 - **Python (Pandas, NumPy)** – data processing & anomaly detection  
