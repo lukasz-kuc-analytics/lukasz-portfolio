@@ -6,7 +6,7 @@ This repository collects my projects in supply chain analytics and data-driven p
 
 ##  Projects
 - [Operational Analytics Prototype (Python + Power BI)](./Operational-Analytics-Prototype)  
-  End-to-end prototype combining Python, Power BI, and Six Sigma for exception handling in logistics
+  End-to-end prototype combining Python, Power BI, and Six Sigma for exception handling in logistics.
 
 *(More projects coming soon: Excel KPI Dashboards, SQL Analysis, Six Sigma Case Study)*  
 
