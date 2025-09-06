@@ -18,15 +18,8 @@ The solution combines:
 
 ##  Components
 
-### 1. Dataset (Inventory & Shipments)
-Synthetic dataset for testing anomaly detection logic.  
-Includes categories, SKUs, weights, expiry dates, fragile/hazmat flags.  
-![Dataset](Dataset.png)  
-![Shipments](Shipments.png)  
 
----
-
-### 2. Python Scripts
+### 1. Python Scripts
 Two Python scripts form the backend "decision engine".  
 They evaluate each shipment against conditions such as hazmat labels, barcode scans, weight conflicts, and packaging completeness.  
 
@@ -39,6 +32,15 @@ Example anomaly checks:
 
 ![Python Script](Python_script.png)  
 ![Python Script 2](Python_Script1.png)  
+
+
+---
+
+### 2. Dataset (Inventory & Shipments)
+Synthetic dataset for testing anomaly detection logic.  
+Includes categories, SKUs, weights, expiry dates, fragile/hazmat flags.  
+![Dataset](Dataset.png)  
+![Shipments](Shipments.png)  
 
 ---
 
